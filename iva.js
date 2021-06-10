@@ -1,14 +1,14 @@
-function calcularIva(importe,tipo){
-    return importe * tipo /100
-}
-function calcularPago(importe,iva){
-    return importe + iva
-}
-let importe = 1000;
-let articulo = "Bicicleta";
-let tipo = 21;
-let iva = calcularIva(importe,tipo);
-console.log("Articulo: "+ articulo+ " -> A pagar "+calcularPago(importe,iva));
+// function calcularIva(importe,tipo){
+//     return importe * tipo /100
+// }
+// function calcularPago(importe,iva){
+//     return importe + iva
+// }
+// let importe = 1000;
+// let articulo = "Bicicleta";
+// let tipo = 21;
+// let iva = calcularIva(importe,tipo);
+// console.log("Articulo: "+ articulo+ " -> A pagar "+calcularPago(importe,iva));
 
 // Lo del profe
 function calcularIva(base, tipoIva = 21) {
