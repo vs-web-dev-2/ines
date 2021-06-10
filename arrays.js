@@ -6,7 +6,7 @@ function recorrerArray(unArray) {
     }
   }
   
-  let colores = ["rojo", "azul", "blanco"];
+  let colores = ["rojo", "azul", "blanco", "rosa"];
   recorrerArray(colores);
   
   colores[1] = "amarillo";
@@ -26,4 +26,6 @@ function recorrerArray(unArray) {
     console.log(color);
   });
   
+  // solo par una instruccion
   colores.forEach((color) => console.log(color));
+  
