@@ -1,5 +1,15 @@
-# Ines Melero
+# Inés Melero
 
-Programo en JavaScrip en Segovia
+Ines Melero
+===========
 
-Vivo en Segovia
+Conocimientos
+-------------
+
+- Programo en **JavaScrip**
+- Utilizamos **Git**
+
+Datos personales
+----------------
+- 
+Vivo en _Segovia_
