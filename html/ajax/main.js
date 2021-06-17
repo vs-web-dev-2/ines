@@ -45,6 +45,7 @@ function procesarDatos(data) {
     nodoDivisaItem.appendChild(nodoCotizacionSpan);
     nodoCotizacionesList.appendChild(nodoDivisaItem);
   });
-}
+
+  }
 
 request.catch();
