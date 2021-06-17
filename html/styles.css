@@ -1,4 +1,33 @@
+html {
+    background-color: bisque;
+}
+body{
+
+    font-family: "Gill Sans", "Gill Sans MT", "Calibri", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+
+}
+header {
+    font-family: "Arial", "Gill Sans MT", "Calibri", 'Trebuchet MS', 'Lucida Grande';
+
+}
+
+h1 {
+    color: crimson;
+    background-color: brown;
+    font-size: 3em;
+}
+
 a {
     color: green;
+
+}
+
+main h1 {
+    background-color: yellowgreen;
+
+}
+
+.azul{
+    color: aqua;
 
 }
